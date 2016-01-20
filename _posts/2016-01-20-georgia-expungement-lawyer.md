@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Criminal Defense Attorney Ed Napier will help you get rid of your criminal record forever.
-datePublished: '2016-01-20T18:00:16.458Z'
-dateModified: '2016-01-20T17:59:54.015Z'
+datePublished: '2016-01-20T18:02:37.031Z'
+dateModified: '2016-01-20T18:02:29.345Z'
 author: []
 title: Georgia Expungement Lawyer
+sourcePath: _posts/2016-01-20-georgia-expungement-lawyer.md
+published: true
 authors: []
 publisher:
   name: google.com
   domain: www.google.com
   url: null
   favicon: null
-sourcePath: _posts/2016-01-20-georgia-expungement-lawyer.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
