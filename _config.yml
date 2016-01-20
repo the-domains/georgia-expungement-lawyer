@@ -1,0 +1,28 @@
+name: Georgia Expungement Lawyer
+favicon: null
+layout_spectrum: 0.3387453192844987
+typography_spectrum: 0.04763447353616357
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.303707618964836
+  lightness: 0.44441662123426795
+  saturation: 0.8293765836860985
+  rhythmicContrast: 0.3155913937371224
+purpose: []
