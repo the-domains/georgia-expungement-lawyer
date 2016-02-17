@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Clear your Georgia Criminal History so that you don't lose an important job opportunity."
-datePublished: '2016-02-12T22:52:52.253Z'
-dateModified: '2016-02-12T22:52:36.651Z'
+datePublished: '2016-02-17T00:46:28.414Z'
+dateModified: '2016-02-17T00:46:04.865Z'
 author: []
 title: Why Getting Your Georgia Criminal History Restricted Matters?
+sourcePath: _posts/2016-02-12-why-getting-your-georgia-criminal-history-restricted-matters.md
+published: true
 authors: []
 publisher:
   name: google.com
   domain: www.google.com
   url: null
   favicon: null
-sourcePath: _posts/2016-02-12-why-getting-your-georgia-criminal-history-restricted-matters.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
@@ -32,7 +32,7 @@ Expungement, in the traditional sense, meant that your criminal records were des
 So what do we mean by this vague and nebulous thing known as "Record Restriction"? Well, essentially, it means your official criminal history is always there, but who can see it what they can see is no longer simple or easy.
 
 Why does this matter to you? Well, to be completely candid, it probably affects how much money you make or even if you can get a job. Now adays, a business can be liable for what an employee does if they knew or should have know that the employee had personal characteristic "whatever". Whatever, can mean you drink, or use drugs, or have certain sexual predisposition, or anything. Employers can and do get sued because they hired a "bad" person when they shouldn't have. I know because I've sued employers for doing this.
-![Criminal History Background Check](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92cb47a3-5b0b-4282-92af-f278f3881fa4.jpg)
+![Expunge your record in Ga!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ee19ce9-ab67-488a-8f44-1163e977c121.jpg)
 
 So, what do employers do? They run criminal background checks. They run them from a variety of different sources, but they check. Almost any employer that operates with the public or has more than a handful of employees is going to check your background. And, if you have a background that presents a risk, the employer is likely to just pass and go for someone that isn't going to expose them to liability for a lawsuit.
 
