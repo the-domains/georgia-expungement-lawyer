@@ -1,7 +1,7 @@
 name: Georgia Expungement Lawyer
 favicon: null
-layout_spectrum: 0.49217
-typography_spectrum: 0.50587
+layout_spectrum: 0.24559
+typography_spectrum: 1
 title: Georgia Expungement Lawyer
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.3155913937371224
+  rhythmicContrast: 0.5
 purpose: []
